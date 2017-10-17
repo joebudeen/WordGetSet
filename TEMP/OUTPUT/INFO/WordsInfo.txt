@@ -1,0 +1,14 @@
+	C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\door0.jpg
+door	a large flat object that you open when you want to enter or leave a building, room, or vehicle	a little cottage with a red door	C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\curtain6.jpg
+curtain	a long piece of cloth, usually one of a pair, that hangs down and covers a window	draw/pull/close the curtains  (=move them together): Draw the curtains and put the light on.	C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\sofa10.jpg
+sofa	a large, soft, comfortable seat with arms and a back that two or three people can sit on		C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\speaker11.jpg
+speaker	someone who gives a speech, or who talks about a subject to a group	The speaker was interrupted several times.	C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\amplifier16.jpg
+amplifier	a piece of electronic equipment that makes sounds louder, used for example with electric guitars or in stereo systems		C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\microphone17.jpg
+microphone	a piece of equipment for making someone’s voice louder when they are speaking, performing, or recording something	
+stepladder	a short ladder consisting of two sloping parts that are fixed at the top so that it can be folded and carried		C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\ramp19.jpg
+ramp	a slope connecting two levels of a building, road etc	Special ramps have been designed for wheelchair access.	C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\tiled23.jpg
+tiled	covered with tiles	a tiled floor
+extractor	a piece of equipment that removes hot or wet air or unpleasant smells from a room		C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\plug26.jpg
+plug	an object used for connecting a piece of equipment to an electricity supply. It is fitted to the end of an electrical wire called a flex and you push it into a special hole in the wall called a socket.		C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\socket36.jpg
+socket	a place on a surface or machine with holes for connecting a piece of electrical equipment. The American word is outlet.		C:\\Users\\joebu\\OneDrive\\Documents\\Visual Studio 2017\\Projects\\WordGet\\TEMP\\OUTPUT\INFO\spanner40.jpg
+spanner	a metal tool that you use for turning small pieces of metal called nuts to make them tighter	

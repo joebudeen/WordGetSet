@@ -1,0 +1,13 @@
+door
+curtain
+sofa
+speaker
+amplifier
+microphone
+stepladder
+ramp
+tiled
+extractor
+plug
+socket
+spanner
